@@ -6,7 +6,7 @@
 5. make install
 
 
-## requirements
+## Requirements
 - cmake
 - boost
 - HDF5
