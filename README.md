@@ -1,1 +1,7 @@
-# cheetah_pal11c
+# cheetah for PAL-BL11C
+
+## requirements
+HDF5
+CBFlib
+
+
