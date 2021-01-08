@@ -7,8 +7,8 @@
 
 
 ## requirements
-cmake
-boost
-HDF5
-CBFlib
+*cmake
+*boost
+*HDF5
+*CBFlib
 
