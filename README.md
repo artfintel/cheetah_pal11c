@@ -7,10 +7,10 @@
 
 
 ## Requirements
-- cmake
-- boost
-- HDF5
-- CBFlib
+- cmake==3.19.2
+- boost==1.53.0
+- HDF5==1.8.21
+- CBFlib==0.9.5.1
 
 
 
