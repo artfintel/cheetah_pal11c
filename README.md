@@ -1,5 +1,5 @@
 # cheetah for PAL-BL11C
-1. Install the requirements library.
+1. Install the requirement libraries.
 2. Modify 'compileme' and execute 'compileme'
 3. cd build
 4. make
